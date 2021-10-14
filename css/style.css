@@ -402,7 +402,7 @@
      width: 600px;
      align-content: center;
      text-align: center;
-     transform: translateX(-4rem);
+     transform: translateX(-2.5rem);
  }
  
  .home__welcome{
@@ -1373,6 +1373,7 @@
        }
        .home__data{
          grid-column: initial;
+         transform: translateX(-2rem);
        }
  
        .about__container,
@@ -1539,6 +1540,10 @@
        .home__social{
          transform: translateX(-7.5rem);
        }
+
+       .home__data{
+       transform: translateX(-120px);
+       } 
  
        .contact__form{
          width: 460px;
