@@ -1,16 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="287px" viewBox="0 0 256 287" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-    <defs>
-        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
-            <stop stop-color="#FF6F00" offset="0%"></stop>
-            <stop stop-color="#FFA800" offset="100%"></stop>
-        </linearGradient>
-        <path d="M133.446809,0 L256,69.7191489 L256,133.446809 L182.468085,90.4170213 L182.468085,122.553191 L218.961702,143.795745 L219.506383,198.808511 L182.468085,177.565957 L182.468085,258.178723 L133.446809,286.502128 L133.446809,0 Z M122.553191,0 L122.553191,286.502128 L73.5319149,258.178723 L73.5319149,90.4170213 L0,133.446809 L0,69.7191489 L122.553191,0 Z" id="path-2"></path>
-    </defs>
-    <g>
-        <mask id="mask-3" fill="white">
-            <use xlink:href="#path-2"></use>
-        </mask>
-        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="278.45245"
+   height="309.02634"
+   viewBox="0 0 278.45245 309.02634"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg7591"
+   sodipodi:docname="tensorflowLogo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7593"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.0418118"
+     inkscape:cx="90.077892"
+     inkscape:cy="152.04754"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7591" />
+  <defs
+     id="defs7582">
+    <linearGradient
+       x1="0"
+       y1="135.41099"
+       x2="270.82198"
+       y2="135.41099"
+       id="linearGradient-1"
+       gradientTransform="scale(0.94527039,1.0578984)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF6F00"
+         offset="0%"
+         id="stop7576" />
+      <stop
+         stop-color="#FFA800"
+         offset="100%"
+         id="stop7578" />
+    </linearGradient>
+    <path
+       d="M 133.44681,0 256,69.719149 V 133.44681 L 182.46808,90.417021 v 32.136169 l 36.49362,21.24255 0.54468,55.01277 -37.0383,-21.24255 v 80.61276 l -49.02127,28.32341 z M 122.55319,0 V 286.50213 L 73.531915,258.17872 V 90.417021 L 0,133.44681 V 69.719149 Z"
+       id="path-2" />
+  </defs>
+  <g
+     id="g7589"
+     transform="translate(10.848797,10.191295)">
+    <mask
+       id="mask-3"
+       fill="#ffffff">
+      <use
+         xlink:href="#path-2"
+         id="use7584"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <use
+       fill="url(#linearGradient-1)"
+       xlink:href="#path-2"
+       id="use7587"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:url(#linearGradient-1)" />
+  </g>
 </svg>
