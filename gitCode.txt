@@ -1,0 +1,3 @@
+PS C:\Users\miguelCR\Documents\02_personalWeb\responsivePersonalPortfolio> git add *
+PS C:\Users\miguelCR\Documents\02_personalWeb\responsivePersonalPortfolio> git commit -m "Files list completed"
+PS C:\Users\miguelCR\Documents\02_personalWeb\responsivePersonalPortfolio> git push 
